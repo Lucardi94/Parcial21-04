@@ -20,7 +20,7 @@
 
     //echo $financiera;
 
-    $financiera->otorgarPrestamoSiCalifica();
+    $financiera->otorgarPrestamoSiCalifica(); //++
     //echo $financiera;
 
     $objCuota = $financiera->informarCuotaPagar(2);
